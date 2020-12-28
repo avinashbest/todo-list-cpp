@@ -9,6 +9,7 @@ The specification for this problem is written down as tests. Since we haven’t 
 Here's how it should work when you're done:
 
 [![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
+
 ## Getting started
 
 1. Install CPP: You should have build support for cpp on your system.
@@ -30,6 +31,7 @@ Here's how it should work when you're done:
    ```
    ./todo.sh
    ```
+
 ## Run Automated Tests
 
 ### 1. Install Node.js
@@ -200,3 +202,7 @@ yyyy-mm-dd Pending : 1 Completed : 4
 ## Improving README.md
 
 If you feel like we are missing out steps, feel free to make a pull request. [Github Repo](https://github.com/nseadlc-2020/package-todo-cli-task)
+
+## Current Program Output by Avinash Kumar | avinashbest3@gmail.com
+
+![image](https://drive.google.com/uc?export=view&id=14OJT3j5XKDsiERhYlNX11WGIV-A8zFkw)
